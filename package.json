@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sharifhimu/intigrate-api-server/issues"
   },
-  "homepage": "https://github.com/sharifhimu/intigrate-api-server#readme"
+  "homepage": "https://github.com/sharifhimu/intigrate-api-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
 }
